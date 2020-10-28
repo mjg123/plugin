@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-team1",
+    "version": "0.0.0",
+    "class": "Team1Plugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-team1.js"
+  }
+]
